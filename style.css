@@ -1,0 +1,129 @@
+body {
+  background-color: lightgray;
+}
+
+.img-pic {
+  padding: 0 0 1rem 0;
+  width: 100%;
+  height: auto;
+  max-height: 600px;
+  object-fit: cover;
+  object-position: center;
+  /* opacity: 80%; */
+}
+
+/* .navbar-nav {
+
+}
+
+.show > .navbar-nav {
+
+} */
+
+.h1-services {
+  text-align: center;
+  padding-bottom: 3rem;
+  margin-top: 2rem;
+}
+
+/* Services */
+
+/* .light-gray {
+  background-color: lightgray;
+} */
+/* .white-background {
+  background-color: white;
+} */
+.services-image {
+  /* max-height: 200px;
+  float: right;
+  padding-right: 20rem; */
+  padding-left: 5rem;
+  width: 100%;
+  height: auto;
+  max-height: 12rem;
+  /* max-width: 20rem; */
+}
+
+.services-underline {
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+.margin-below {
+  margin-bottom: 5rem;
+}
+
+.services-paragraph {
+  padding-top: 1rem;
+  max-width: 40rem;
+}
+
+.services-image-reverse {
+  /* max-height: 200px;
+  float: right;
+  padding-right: 20rem; */
+  padding-right: 5rem;
+  width: 100%;
+  height: auto;
+  max-height: 12rem;
+  /* max-width: 20rem; */
+}
+
+.move-to-right {
+  padding-left: 5.6rem;
+}
+
+footer {
+  margin-top: 10rem;
+}
+
+/* About PAge */
+
+.h1-about-us {
+  text-align: center;
+  padding-bottom: 3rem;
+  margin-top: 2rem;
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+.about-max-width {
+  max-width: 60rem;
+  text-align: center;
+}
+
+.h2-about {
+  text-align: center;
+  padding-bottom: 3rem;
+  margin-top: 2rem;
+}
+
+.about-pictures {
+  width: 60%;
+  height: auto;
+  /* align-content: center; */
+}
+
+.meet-name {
+  padding-top: 1rem;
+  letter-spacing: 0.17rem;
+  padding-left: 8rem;
+  /* padding-right: 3rem; */
+}
+
+.title {
+  padding-left: 8rem;
+  /* padding-right: 3rem; */
+}
+
+.bio {
+  font-size: 1.25rem;
+  font-weight: 400;
+  padding-left: 8rem;
+  /* padding-right: 3rem; */
+}
+
+.form-thing {
+  margin-top: 5rem;
+}
